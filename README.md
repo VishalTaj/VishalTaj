@@ -19,7 +19,8 @@
 ### Frontend
 ![Reactjs](https://img.icons8.com/office/32/000000/react.png)
 ![Bootstrap](https://img.icons8.com/color/32/000000/bootstrap.png)
-![Bootstrap](https://img.icons8.com/ios-filled/32/ffffff/jquery.png)
+![Jquery](https://img.icons8.com/ios-filled/32/ffffff/jquery.png)
+![HTML](https://img.icons8.com/color/32/ffffff/html.png)
 
 ### Databases
 
