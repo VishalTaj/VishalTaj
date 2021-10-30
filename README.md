@@ -10,7 +10,7 @@
 
 ---
 
-<p>Hi, I'm Vishal Taj PM, Fullstack Developer 👨‍💻 from <b>Kerala, India</b>, currently living in <b>Kuala Lumpur, Malaysia</b>.</p>
+<p>Hi, I'm Vishal Taj PM, 👨‍💻 Fullstack Developer from <b>🇮🇳 Kerala, India</b>, currently living in <b>🇲🇾 Kuala Lumpur, Malaysia</b>.</p>
 
 <details>
   <summary>About Me</summary>
@@ -70,7 +70,7 @@
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
       <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
+      <td><b>📬 Downloads</b></td>
     </tr>
   </thead>
   <tbody>
@@ -79,7 +79,7 @@
       <td><img alt="Stars" src="https://img.shields.io/github/stars/VishalTaj/mti?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/VishalTaj/mti?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/VishalTaj/mti?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/VishalTaj/mti?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Downloads" src="https://img.shields.io/gem/dt/mti"/></td>
     </tr>
   </tbody>
 </table>
