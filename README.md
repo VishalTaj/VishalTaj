@@ -10,7 +10,21 @@
 
 ---
 
-<p>Hi there, I'm Vishal Taj PM, Fullstack developer from <b>Kerala, India</b>, currently living in <b>Kuala Lumpur, Malaysia</b>.</p>
+<p>Hi, I'm Vishal Taj PM, Fullstack Developer 👨‍💻 from <b>Kerala, India</b>, currently living in <b>Kuala Lumpur, Malaysia</b>.</p>
+
+<details>
+  <summary>About Me</summary>
+
+  <p><br />A passionate programmer who always love to code. Keen to learn new things and believes coding as a supernatural power.</p>
+  <p>With More than 5 years in software industry. I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set.</p>
+  <legend>Hobbies/Interests</legend>
+  <ul>
+    <li>passionate to learn new things</li>
+    <li>a movie buff</li>
+    <li>likes to play <b>Cricket</b> , <b>Football</b>.</li>
+  </ul>
+
+</details>
 
 ---
 
@@ -25,6 +39,7 @@
 ![Django](https://img.icons8.com/material-outlined/32/4cac79/django.png)
 ![Reactjs](https://img.icons8.com/office/32/000000/react.png)
 ![Bootstrap](https://img.icons8.com/color/32/000000/bootstrap.png)
+![Graphql](https://img.icons8.com/color/32/000000/graphql.png)
 ![Jquery](https://img.icons8.com/ios-filled/32/ffffff/jquery.png)
 ![HTML](https://img.icons8.com/color/32/ffffff/html.png)
 ![Mysql](https://img.icons8.com/color/32/000000/mysql.png)
@@ -47,6 +62,7 @@
 ---
 
 ### Open Source
+
 <table>
   <thead align="center">
     <tr border: none;>
@@ -69,11 +85,16 @@
 </table>
 
 
-<h4>📈 Status</h4>
+<h4>📈 Statistics</h4>
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=VishalTaj&show_icons=true&theme=gotham" alt="VishalTaj" />
-  
+<p> <img src="https://github-readme-stats.vercel.app/api?username=VishalTaj&show_icons=true&theme=dark&layout=compact" alt="VishalTaj" />
+</p>
+
+<p>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=VishalTaj&theme=dark&hide_langs_below=4&layout=compact' />
+  </p>
+
 <div>
-  <a href="https://stackexchange.com/users/4175793"><img src="https://stackexchange.com/users/flair/4175793.png" width="208" height="58" alt="profile for Vishal Taj PM on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Vishal Taj PM on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+  <a href="https://stackexchange.com/users/4175793"><img src="https://stackexchange.com/users/flair/4175793.png?theme=dark" width="208" height="58" alt="profile for Vishal Taj PM on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Vishal Taj PM on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 </div>
 
