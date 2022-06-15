@@ -1,4 +1,4 @@
-<h4 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"><img src="/resume-round.png" width="80px"></h4>
+<h4 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"><img src="/resume-round.png" width="80px"></h4>
 <div align="center">
   <a href="https://calendly.com/vishaltajpm/30min" style="color: #fff;"><img src="https://assets.calendly.com/packs/media/logo-square-cd364a3c33976d32792a.png" width="24"/></a>
   <a href="https://www.linkedin.com/in/vishaltajpm/" style="color: #fff;"><img src="https://img.icons8.com/color/24/000000/linkedin.png" width="24"/></a>
