@@ -97,6 +97,6 @@
 <p>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=VishalTaj&theme=dark&hide_langs_below=4&layout=compact' align="right" />
   </p>
-<p> <img src="https://github-readme-stats.vercel.app/api?username=VishalTaj&show_icons=true&theme=dark&layout=compact" alt="VishalTaj" align="left" />
+<p> <img src="https://github-readme-stats.vercel.app/api?username=VishalTaj&show_icons=true&theme=dark&layout=compact" alt="VishalTaj" align="left" width="350px" />
 </p>
 
