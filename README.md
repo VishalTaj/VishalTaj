@@ -23,7 +23,7 @@
   <legend>Hobbies/Interests</legend>
   <ul>
     <li>passionate to learn new things</li>
-    <li>a movie buff</li>
+    <li>a cinephile</li>
     <li>likes to play <b>Cricket</b> , <b>Football</b>.</li>
   </ul>
 
