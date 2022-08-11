@@ -89,15 +89,14 @@
   </tbody>
 </table>
 
+<div>
+  <a href="https://stackexchange.com/users/4175793"><img src="https://stackexchange.com/users/flair/4175793.png?theme=dark" width="208" height="58" alt="profile for Vishal Taj PM on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Vishal Taj PM on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+</div>
 
 <h4>📈 Statistics</h4>
 <p>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=VishalTaj&theme=dark&hide_langs_below=4&layout=compact' align="right" />
   </p>
-<p> <img src="https://github-readme-stats.vercel.app/api?username=VishalTaj&show_icons=true&theme=dark&layout=compact" alt="VishalTaj" />
+<p> <img src="https://github-readme-stats.vercel.app/api?username=VishalTaj&show_icons=true&theme=dark&layout=compact" alt="VishalTaj" align="left" />
 </p>
-
-<div>
-  <a href="https://stackexchange.com/users/4175793"><img src="https://stackexchange.com/users/flair/4175793.png?theme=dark" width="208" height="58" alt="profile for Vishal Taj PM on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Vishal Taj PM on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
-</div>
 
