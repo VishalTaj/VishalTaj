@@ -89,6 +89,10 @@
   </tbody>
 </table>
 
+📕 &nbsp;**Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <div>
   <a href="https://stackexchange.com/users/4175793"><img src="https://stackexchange.com/users/flair/4175793.png?theme=dark" width="208" height="58" alt="profile for Vishal Taj PM on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Vishal Taj PM on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 </div>
