@@ -91,6 +91,9 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [GraphQL caching using Cloudflare](https://medium.com/@vishaltajpm/graphql-caching-using-cloudflare-6f99eca102a?source=rss-6c483d9d16e8------2)
+- [Rails User Session Handling using Redis](https://medium.com/@vishaltajpm/rails-user-session-handling-using-redis-4a20b00a258e?source=rss-6c483d9d16e8------2)
+- [Adding Google Publisher Tag Ads in Next.js](https://medium.com/@vishaltajpm/adding-google-publisher-tag-ads-in-next-js-f17dc859af05?source=rss-6c483d9d16e8------2)
 <!-- BLOG-POST-LIST:END -->
 
 <div>
