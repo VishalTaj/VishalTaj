@@ -11,15 +11,15 @@
 ---
 
 <p>Hi, I'm Vishal Taj PM, 👨‍💻 Fullstack Developer from <b>🇮🇳 Kerala, India</b>, currently living in <b>🇲🇾 Kuala Lumpur, Malaysia</b>.</p>
-<img src="https://user-images.githubusercontent.com/5780940/184087818-c968f1ae-0d2f-449f-b7de-2cee9b805828.png" width="150px" align="right" />
+
 
 
 
 <details>
   <summary>About Me</summary>
 
-  <p><br />A passionate programmer who always love to code. Keen to learn new things and believes coding as a supernatural power.</p>
-  <p>With More than 5 years in software industry. I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set.</p>
+  <p><br />A passionate programmer who always loves to code. Keen to learn new things and believes coding is a supernatural power.</p>
+  <p>With More than 5 years in the software industry. I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set.</p>
   <legend>Hobbies/Interests</legend>
   <ul>
     <li>passionate to learn new things</li>
