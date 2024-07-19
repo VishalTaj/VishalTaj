@@ -19,7 +19,7 @@
   <summary>About Me</summary>
 
   <p><br />A passionate programmer who always loves to code. Keen to learn new things and believes coding is a supernatural power.</p>
-  <p>With More than 5 years in the software industry. I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set.</p>
+  <p>With More than 8 years in the software industry. I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set.</p>
   <legend>Hobbies/Interests</legend>
   <ul>
     <li>passionate to learn new things</li>
