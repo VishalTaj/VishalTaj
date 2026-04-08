@@ -5,7 +5,6 @@
   <a href="https://twitter.com/vishaltajpm" style="color: #fff;"><img src="https://img.icons8.com/color/24/000000/twitter--v2.png" width="24"/></a>
   <a href="https://www.hackerrank.com/vishaltajpm" style="color: #fff;"><img src="https://img.icons8.com/windows/24/ffffff/hackerrank.png" width="24"/></a>
   <a href="https://www.upwork.com/freelancers/~0195290cec8aeb62b6" style="color: #fff;"><img src="https://img.icons8.com/ios/24/14a800/upwork.png" width="24"/></a>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=VishalTaj.VishalTaj" />
 </div>
 
 ---
@@ -19,7 +18,7 @@
   <summary>About Me</summary>
 
   <p><br />A passionate programmer who always loves to code. Keen to learn new things and believes coding is a supernatural power.</p>
-  <p>With More than 8 years in the software industry. I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set.</p>
+  <p>With More than 10 years in the software industry. I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set.</p>
   <legend>Hobbies/Interests</legend>
   <ul>
     <li>passionate to learn new things</li>
@@ -35,32 +34,52 @@
 
 ### Tools & Languages
 
-![Ruby](https://img.icons8.com/fluency/32/000000/ruby-programming-language.png)
-![Python](https://img.icons8.com/color/32/000000/python--v1.png)
-![Javascript](https://img.icons8.com/color/32/000000/javascript--v1.png)
-![PHP](https://img.icons8.com/officel/32/000000/php-logo.png)
-![Rails](https://img.icons8.com/windows/32/cd2f2a/ruby-on-rails.png) 
-![Node js](https://img.icons8.com/windows/32/4cac79/nodejs.png)
-![Django](https://img.icons8.com/material-outlined/32/4cac79/django.png)
-![Reactjs](https://img.icons8.com/office/32/000000/react.png)
-![Bootstrap](https://img.icons8.com/color/32/000000/bootstrap.png)
-![Graphql](https://img.icons8.com/color/32/000000/graphql.png)
-![Jquery](https://img.icons8.com/ios-filled/32/ffffff/jquery.png)
-![HTML](https://img.icons8.com/color/32/ffffff/html.png)
-![Mysql](https://img.icons8.com/color/32/000000/mysql.png)
-![Wordpress](https://img.icons8.com/color/32/000000/postgresql.png)
-![Mongodb](https://img.icons8.com/color/32/000000/mongodb.png)
-![Redis](https://img.icons8.com/color/32/000000/redis.png)
-![Elastic Search](https://img.icons8.com/color/32/000000/elasticsearch.png)
-![Docker](https://img.icons8.com/color/32/000000/nginx.png)
-![GCP](https://img.icons8.com/color/32/000000/google-cloud-platform.png)
-![Aws](https://img.icons8.com/color/32/fffff/amazon-web-services.png)
-![Wordpress](https://img.icons8.com/color/32/000000/wordpress.png)
-![Shopify](https://img.icons8.com/color/32/000000/shopify.png)
-![Heroku](https://img.icons8.com/color/32/000000/heroku.png)
-![Visual Studio Code](https://img.icons8.com/color/32/000000/visual-studio-code-2019.png)
-![Docker](https://img.icons8.com/color/32/000000/docker.png)
-![Ansible](https://img.icons8.com/color/32/000000/ansible.png)
+#### Framework & Libraries
+
+![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![GIN](https://img.shields.io/badge/GIN-%23008ECF.svg?style=for-the-badge&logo=gin&logoColor=white)
+
+#### Programming Languages
+
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
+![Javascript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Typescript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=black)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+#### Frontend
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![GraphQL](https://img.shields.io/badge/graphql-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
+![React.js](https://img.shields.io/badge/react.js-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+
+#### Devops & Cloud
+
+![AWS](https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/googlecloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+#### Databases
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Elastic Search](https://img.shields.io/badge/elasticsearch-%23005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Postgres](https://img.shields.io/badge/timescaledb-%23FDB515.svg?style=for-the-badge&logo=timescale&logoColor=black)
+#### Devops & Cloud
+
+![AWS](https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/googlecloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+#### Security
+![OWASP](https://img.shields.io/badge/owasp-%23000000.svg?style=for-the-badge&logo=owasp&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/burp_suite-%23FF5722.svg?style=for-the-badge&logo=burpsuite&logoColor=white)
 <br />
 <br />
 
