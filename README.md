@@ -1,34 +1,35 @@
-<h4 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"><img src="/resume-round.png" width="80px"></h4>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VishalTaj/VishalTaj/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VishalTaj/VishalTaj/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/VishalTaj/VishalTaj/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+<h1 align="center">VISHAL TAJ PM</h1>
+<p align="center">
+  <i>System Architect // Head of Engineering // Core Engine Developer</i>
+</p>
+
 <div align="center">
   <a href="https://calendly.com/vishaltajpm/30min" style="color: #fff;"><img src="https://assets.calendly.com/packs/media/logo-square-cd364a3c33976d32792a.png" width="24"/></a>
   <a href="https://www.linkedin.com/in/vishaltajpm/" style="color: #fff;"><img src="https://img.icons8.com/color/24/000000/linkedin.png" width="24"/></a>
   <a href="https://twitter.com/vishaltajpm" style="color: #fff;"><img src="https://img.icons8.com/color/24/000000/twitter--v2.png" width="24"/></a>
-  <a href="https://www.hackerrank.com/vishaltajpm" style="color: #fff;"><img src="https://img.icons8.com/windows/24/ffffff/hackerrank.png" width="24"/></a>
   <a href="https://www.upwork.com/freelancers/~0195290cec8aeb62b6" style="color: #fff;"><img src="https://img.icons8.com/ios/24/14a800/upwork.png" width="24"/></a>
 </div>
 
 ---
+**10+ Years of Crafting High-Performance Core Engines & Scalable Systems**
 
-<p>Hi, I'm Vishal Taj PM, 👨‍💻 Fullstack Developer from <b>🇮🇳 Kerala, India</b>, currently living in <b>🇲🇾 Kuala Lumpur, Malaysia</b>.</p>
+> I lead the engineering vision for complex, data-heavy portfolios like **[Ecolyptus](https://ecolyptus.com/)**, focusing on sustainability through technology. I specialize in building "the heart" of applications—core engines, real-time communication protocols, and **AI-driven energy insights**.
+---
 
+### 🎓 The Many Hats of a Polyglot Leader 
 
-
-
-<details>
-  <summary>About Me</summary>
-
-  <p><br />A passionate programmer who always loves to code. Keen to learn new things and believes coding is a supernatural power.</p>
-  <p>With More than 10 years in the software industry. I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set.</p>
-  <legend>Hobbies/Interests</legend>
-  <ul>
-    <li>passionate to learn new things</li>
-    <li>a cinephile</li>
-    <li>likes to play <b>Cricket</b> , <b>Football</b>.</li>
-  </ul>
-
-</details>
-
-
+* **The Domain Expert:** Proven track record in **FinTech** (Security & Compliance), **Media** (Scalable Content Delivery), and **Energy** (Real-time Analytics).
+* **The AI Explorer:** Currently bridging the gap between LLMs and local data using **MCP (Model Context Protocol)** to build context-aware AI interfaces.
+* **The Core Engine Dev:** Expert in building high-throughput backends using **Ruby on Rails, Go, Node.js, and Python**.
+* **The Frontend Architect:** Crafting type-safe, performant user experiences with **Next.js and TypeScript**
 
 ---
 
@@ -55,13 +56,14 @@
 ![GraphQL](https://img.shields.io/badge/graphql-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
 ![React.js](https://img.shields.io/badge/react.js-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 
-#### Devops & Cloud
-
-![AWS](https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+#### **Advanced Infrastructure & AI**
+![MCP](https://img.shields.io/badge/AI_Architecture-MCP_(Model_Context_Protocol)-blue?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Security](https://img.shields.io/badge/Security-OWASP/Burp_Suite-orange?style=for-the-badge)
 ![GCP](https://img.shields.io/badge/googlecloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 #### Databases
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -70,16 +72,7 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Elastic Search](https://img.shields.io/badge/elasticsearch-%23005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Postgres](https://img.shields.io/badge/timescaledb-%23FDB515.svg?style=for-the-badge&logo=timescale&logoColor=black)
-#### Devops & Cloud
 
-![AWS](https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/googlecloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-#### Security
-![OWASP](https://img.shields.io/badge/owasp-%23000000.svg?style=for-the-badge&logo=owasp&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/burp_suite-%23FF5722.svg?style=for-the-badge&logo=burpsuite&logoColor=white)
 <br />
 <br />
 
@@ -108,7 +101,7 @@
   </tbody>
 </table>
 
-📕 &nbsp;**Latest Blog Posts**
+📕 &nbsp;**Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [GraphQL caching using Cloudflare](https://medium.com/@vishaltajpm/graphql-caching-using-cloudflare-6f99eca102a?source=rss-6c483d9d16e8------2)
 - [Rails User Session Handling using Redis](https://medium.com/@vishaltajpm/rails-user-session-handling-using-redis-4a20b00a258e?source=rss-6c483d9d16e8------2)
@@ -120,10 +113,9 @@
   <a href="https://stackexchange.com/users/4175793"><img src="https://stackexchange.com/users/flair/4175793.png?theme=dark" width="208" height="58" alt="profile for Vishal Taj PM on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Vishal Taj PM on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 </div>
 <div>
-<p>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=VishalTaj&theme=dark&hide_langs_below=4&layout=compact' align="right" />
-  </p>
-<p> <img src="https://github-readme-stats.vercel.app/api?username=VishalTaj&show_icons=true&theme=dark&layout=compact" alt="VishalTaj" align="left" width="350px" />
-</p>
 </div>
 
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VishalTaj&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+</p>
